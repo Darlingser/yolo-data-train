@@ -1,0 +1,93 @@
+filename,split,source,label_path
+161c4b404590740cbf23e80c20a6d0ec.jpg,test,old,D:\datasets\labels\161c4b404590740cbf23e80c20a6d0ec.txt
+19bbaaaeaa4b640193f437a96225fb30.jpg,train,old,D:\datasets\labels\19bbaaaeaa4b640193f437a96225fb30.txt
+32a4c29a9fb663ba16d5bbd8fc8f3e40.jpg,train,old,D:\datasets\labels\32a4c29a9fb663ba16d5bbd8fc8f3e40.txt
+554747ebdea6555a21132450faf94194.jpg,test,old,D:\datasets\labels\554747ebdea6555a21132450faf94194.txt
+6e5c3a0371c75a46300e0d35bf96aa3c.jpg,val,old,D:\datasets\labels\6e5c3a0371c75a46300e0d35bf96aa3c.txt
+8f718c87494e2b5085711a943b9ac6d3.jpg,val,old,D:\datasets\labels\8f718c87494e2b5085711a943b9ac6d3.txt
+a0344ed046c9590868ef10e27072f760.jpg,train,old,D:\datasets\labels\a0344ed046c9590868ef10e27072f760.txt
+new_01.jpg,train,new,D:\datasets\imgs_new_20261110\new_01.txt
+new_02.jpg,test,new,D:\datasets\imgs_new_20261110\new_02.txt
+new_03.jpg,test,new,D:\datasets\imgs_new_20261110\new_03.txt
+new_04.jpg,train,new,D:\datasets\imgs_new_20261110\new_04.txt
+new_06.jpg,train,new,D:\datasets\imgs_new_20261110\new_06.txt
+new_07.jpg,val,new,D:\datasets\imgs_new_20261110\new_07.txt
+new_08.jpg,val,new,D:\datasets\imgs_new_20261110\new_08.txt
+new_09.jpg,train,new,D:\datasets\imgs_new_20261110\new_09.txt
+new_10.jpg,train,new,D:\datasets\imgs_new_20261110\new_10.txt
+new_11.jpg,test,new,D:\datasets\imgs_new_20261110\new_11.txt
+new_12.jpg,train,new,D:\datasets\imgs_new_20261110\new_12.txt
+new_13.jpg,val,new,D:\datasets\imgs_new_20261110\new_13.txt
+new_14.jpg,train,new,D:\datasets\imgs_new_20261110\new_14.txt
+new_15.jpg,test,new,D:\datasets\imgs_new_20261110\new_15.txt
+new_16.jpg,train,new,D:\datasets\imgs_new_20261110\new_16.txt
+new_17.jpg,train,new,D:\datasets\imgs_new_20261110\new_17.txt
+new_18.jpg,train,new,D:\datasets\imgs_new_20261110\new_18.txt
+new_19.jpg,train,new,D:\datasets\imgs_new_20261110\new_19.txt
+new_20.jpg,train,new,D:\datasets\imgs_new_20261110\new_20.txt
+thermos_01.jpg,train,old,D:\datasets\labels\thermos_01.txt
+thermos_06.jpg,train,old,D:\datasets\labels\thermos_06.txt
+thermos_09.jpg,train,old,D:\datasets\labels\thermos_09.txt
+thermos_10.jpg,train,old,D:\datasets\labels\thermos_10.txt
+thermos_12.jpg,train,old,D:\datasets\labels\thermos_12.txt
+thermos_13.jpg,train,old,D:\datasets\labels\thermos_13.txt
+thermos_14.jpg,train,old,D:\datasets\labels\thermos_14.txt
+thermos_15.jpg,train,old,D:\datasets\labels\thermos_15.txt
+thermos_16.jpg,train,old,D:\datasets\labels\thermos_16.txt
+thermos_17.jpg,train,old,D:\datasets\labels\thermos_17.txt
+thermos_18.jpg,train,old,D:\datasets\labels\thermos_18.txt
+thermos_19.jpg,train,old,D:\datasets\labels\thermos_19.txt
+thermos_20.jpg,train,old,D:\datasets\labels\thermos_20.txt
+0c8acea7ed8ab5aa80ca9f0fa86eca2d.jpg,train,new_20261115,D:\datasets\imgs\0c8acea7ed8ab5aa80ca9f0fa86eca2d.txt
+155835bc2c10cacb8df534b24f4b05ba.jpg,train,new_20261115,D:\datasets\imgs\155835bc2c10cacb8df534b24f4b05ba.txt
+904e7b1e11cd3f625567cac4fcb36088.jpg,train,new_20261115,D:\datasets\imgs\904e7b1e11cd3f625567cac4fcb36088.txt
+ed86fa99123858d959cea804ded640c4.jpg,train,new_20261115,D:\datasets\imgs\ed86fa99123858d959cea804ded640c4.txt
+e5493931d0f50a9269fbfeeeffc75182.jpg,train,new_20261115,D:\datasets\imgs\e5493931d0f50a9269fbfeeeffc75182.txt
+f09249233fc0ef303070c83c4c39abf1.jpg,train,new_20261115,D:\datasets\imgs\f09249233fc0ef303070c83c4c39abf1.txt
+84b6f57c4163571926f47c937210499c.jpg,val,new_20261115,D:\datasets\imgs\84b6f57c4163571926f47c937210499c.txt
+9c89cc2bca9b8e65d4f4b045e33c74d9.jpg,val,new_20261115,D:\datasets\imgs\9c89cc2bca9b8e65d4f4b045e33c74d9.txt
+402c36fe370419967f345811e39eb777.jpg,test,new_20261115,D:\datasets\imgs\402c36fe370419967f345811e39eb777.txt
+0c8d7df8a6488c25edd06301b4cf9960.jpg,train,new_20261115b,D:\datasets\imgs\0c8d7df8a6488c25edd06301b4cf9960.txt
+0a2e3ff478ca8d2afb3d43ae11ce89d1.jpg,train,new_20261115b,D:\datasets\imgs\0a2e3ff478ca8d2afb3d43ae11ce89d1.txt
+6a2539a75794c982ca7a0945e517049e.jpg,train,new_20261115b,D:\datasets\imgs\6a2539a75794c982ca7a0945e517049e.txt
+ad863b41d88508f8722131b62a95cf66.jpg,train,new_20261115b,D:\datasets\imgs\ad863b41d88508f8722131b62a95cf66.txt
+491a61742d41df3c8cd14f766ec7b653.jpg,train,new_20261115b,D:\datasets\imgs\491a61742d41df3c8cd14f766ec7b653.txt
+934d5d429e4d2aa05ccc71417fae77f6.jpg,train,new_20261115b,D:\datasets\imgs\934d5d429e4d2aa05ccc71417fae77f6.txt
+engin_akyurt-coffee-5132832_1920.jpg,train,new_20261115b,D:\datasets\imgs\engin_akyurt-coffee-5132832_1920.txt
+freephotocc-laptop-1478822_640.jpg,train,new_20261115b,D:\datasets\imgs\freephotocc-laptop-1478822_640.txt
+edar-diary-968592_1920.jpg,val,new_20261115b,D:\datasets\imgs\edar-diary-968592_1920.txt
+engin_akyurt-coffee-2425303.jpg,val,new_20261115b,D:\datasets\imgs\engin_akyurt-coffee-2425303.txt
+fancycrave1-office-820390_1920.jpg,train,new_20261115b,D:\datasets\imgs\fancycrave1-office-820390_1920.txt
+stocksnap-office-925806_1920.jpg,train,new_20261115b,D:\datasets\imgs\stocksnap-office-925806_1920.txt
+neg_01.jpg,train,negative_20261115,empty office desk + chair
+neg_02.jpg,train,negative_20261115,office desk monitor + chair
+neg_03.jpg,train,negative_20261115,empty room corner desks
+neg_04.jpg,train,negative_20261115,desk monitor papers pen holder
+neg_05.jpg,train,negative_20261115,desk monitor keyboard printer
+neg_06.jpg,train,negative_20261115,empty classroom desk
+neg_07.jpg,train,negative_20261115,school desk with closed books
+neg_08.jpg,train,negative_20261115,pile of books
+neg_09.jpg,val,negative_20261115,stacked notebooks on table
+neg_10.jpg,val,negative_20261115,clean desk imac speakers
+hn_01.jpg,train,hardneg_20261115,book cover on desk
+hn_02.jpg,train,hardneg_20261115,book + phone on desk
+hn_03.jpg,train,hardneg_20261115,black speaker JBL
+hn_04.jpg,train,hardneg_20261115,keyboard + desk
+hn_05.jpg,train,hardneg_20261115,laptop screen
+hn_06.jpg,train,hardneg_20261115,plate/bowl
+hn_07.jpg,train,hardneg_20261115,tablet screen
+hn_08.jpg,train,hardneg_20261115,office printer
+hn_09.jpg,train,hardneg_20261115,wooden furniture edge
+hn_10.jpg,train,hardneg_20261115,phone app screen
+hn_11.jpg,train,hardneg_20261115,office chair + shelf
+hn_12.jpg,train,hardneg_20261115,remote control
+hn_13.jpg,train,hardneg_20261115,keyboard closeup
+hn_14.jpg,train,hardneg_20261115,windows desktop screen
+hn_15.jpg,train,hardneg_20261115,black printer/microwave
+hn_16.jpg,train,hardneg_20261115,paper stack
+hn_17.jpg,train,hardneg_scene_20261115,desk monitor speaker notebook
+hn_18.jpg,train,hardneg_scene_20261115,dual monitor + 2 speakers
+hn_19.jpg,train,hardneg_scene_20261115,HP printer on wooden desk
+hn_20.jpg,train,hardneg_scene_20261115,HP printer close scene
+hn_21.jpg,train,hardneg_scene_20261115,keyboard + speaker + desk
+hn_22.jpg,train,hardneg_scene_20261115,monitor + white speaker + gamepad
